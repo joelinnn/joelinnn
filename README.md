@@ -1,4 +1,4 @@
-## About Me :point_down:
+# About Me :point_down:
 
 <!--
 **joelinnn/joelinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
