@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Rust
-💬 Ask me about anything full stack JavaScript, AI, or crypto
-📫 Reach me at: JoeLin3478@gmail.com or https://www.linkedin.com/in/joelinnn/
+🌱 I’m currently learning Rust <br>
+💬 Ask me about anything full stack JavaScript, AI, or crypto <br>
+📫 Reach me at: JoeLin3478@gmail.com or https://www.linkedin.com/in/joelinnn/ <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/li-walter) 
